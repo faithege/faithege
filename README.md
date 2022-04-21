@@ -1,5 +1,5 @@
 # Faith Ege (she/her)
-Hello 👋🏾 My name's Faith and I am a Software Developer at [@BBC] having previously worked at [@Sky-UK](https://github.com/sky-uk). I am a career-changer having previously worked as a Data Analyst 📈.
+Hello 👋🏾 My name's Faith and I am a Software Developer at [@BBC](https://github.com/bbc) having previously worked at [@Sky-UK](https://github.com/sky-uk). I am a career-changer having previously worked as a Data Analyst 📈.
 
 Outside of work I volunteer on the Leadership Team at [Coding Black Females](https://codingblackfemales.com/) - the largest network of Black women in tech in the UK. I'm passionate about ensuring that under-represented groups can enter, and flourish within the tech industry 🏆.
 
