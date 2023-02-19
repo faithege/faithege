@@ -8,8 +8,7 @@ Outside of work I volunteer on the Leadership Team at [Coding Black Females](htt
 
 -----
 **Currently learning and improving**
-- AWS Fundamentals
-- CI/CD via GitHub Actions
+- Studying towards AWS Developer Associate Certification
 
 **Articles**
 - [Six things I’ve learned in my first year as a Software Developer](https://medium.com/codingblackfemales/six-things-ive-learned-in-my-first-year-as-a-software-developer-769cb627f1c2)
